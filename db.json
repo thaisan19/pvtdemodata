@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": "01",
+      "title": "Vue 3 with Firebase : The Complete Guide",
+      "hourlyRate": 30,
+      "tutoringDays": ["Monday", "Wednesday", "Friday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["13 PM", "14 PM", "15 PM"],
+      "tutorName": "Thaisan",
+      "createdAt": "2021-04-24 12:32 PM"
+    },
+    {
+      "id": "02",
+      "title": "Vue 3 with Vuex The Complete Guide",
+      "hourlyRate": 24,
+      "tutoringDays": ["Friday", "Saturday", "Sunday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["19 PM", "20 PM"],
+      "tutorName": "Neon",
+      "createdAt": "2021-04-24 16:15 PM"
+    },
+    {
+      "id": "03",
+      "title": "Mastering Math For High School Student",
+      "hourlyRate": 45,
+      "tutoringDays": ["Monday", "Tuesday", "Wednesday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["8 AM", "9 AM", "10 AM"],
+      "tutorName": "Veasna",
+      "createdAt": "2021-04-24 20:02 PM"
+    },
+    {
+      "id": "04",
+      "title": "Intermediate Physic For Grade 12",
+      "hourlyRate": 20,
+      "tutoringDays": ["Monday", "Tuesday", "Wednesday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["8 AM", "9 AM"],
+      "tutorName": "Ratana",
+      "createdAt": "2021-04-22 23:02 PM"
+    },
+    {
+      "id": "05",
+      "title": "Turn Math Into Art Class",
+      "hourlyRate": 15,
+      "tutoringDays": ["Monday", "Tuesday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["10 AM", "11 AM"],
+      "tutorName": "Veasna",
+      "createdAt": "2021-04-20 13:02 PM"
+    },
+    {
+      "id": "06",
+      "title": "Animation with SVG and CSS",
+      "hourlyRate": 25,
+      "tutoringDays": ["Friday", "Sunday", "Monday"],
+      "courseDesc": "This is description you have to fill.",
+      "tutoringHours": ["17 PM", "18 PM", "19 PM"],
+      "tutorName": "Thaisan",
+      "createdAt": "2021-04-24 14:02 PM"
+    }
+  ]
+}
